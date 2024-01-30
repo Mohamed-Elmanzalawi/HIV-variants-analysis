@@ -1,0 +1,1632 @@
+There is a dissimilar region at index 770 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 772 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 774 and end at index 775 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is -- 
+There is a dissimilar region at index 781 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 794 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 798 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 803 and end at index 804 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region start at index 816 and end at index 817 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region at index 820 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 827 
+Which is - in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 880 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 897 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 904 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 917 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 942 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 953 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 976 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 980 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 985 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 994 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1004 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1013 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1021 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1025 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1036 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1043 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1055 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1057 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1067 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1072 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1097 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1111 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1121 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1130 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1133 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 1136 and end at index 1137 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 1159 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1162 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1173 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1180 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1183 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1186 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1190 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1204 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1208 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1215 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1220 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1224 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 1226 and end at index 1229 
+Which is AACC in The_Second_list_Consensus_Sequ and in the Main consensus  is GCTG 
+There is a dissimilar region start at index 1231 and end at index 1232 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is CA 
+There is a dissimilar region at index 1234 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 1236 and end at index 1238 
+Which is GTC in The_Second_list_Consensus_Sequ and in the Main consensus  is AAA 
+There is a dissimilar region at index 1249 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1264 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 1279 and end at index 1281 
+Which is TGC in The_Second_list_Consensus_Sequ and in the Main consensus  is CCT 
+There is a dissimilar region start at index 1295 and end at index 1296 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region at index 1304 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1307 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1309 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1318 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1324 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1348 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1351 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1360 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1363 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1385 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1411 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1423 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 1425 and end at index 1426 
+Which is TG in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 1437 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1450 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1453 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1477 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1507 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1511 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1538 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1549 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1573 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1588 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1600 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1611 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1642 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1651 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1725 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1732 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1753 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1763 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1770 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1778 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1780 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1786 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1789 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1796 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1804 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1813 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1822 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1832 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1849 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1861 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1864 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1867 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1872 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1879 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1887 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 1918 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1930 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 1939 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 1951 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 1972 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 1977 and end at index 1978 
+Which is TA in The_Second_list_Consensus_Sequ and in the Main consensus  is -- 
+There is a dissimilar region start at index 1984 and end at index 1986 
+Which is GTC in The_Second_list_Consensus_Sequ and in the Main consensus  is AAT 
+There is a dissimilar region start at index 1989 and end at index 1990 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region start at index 1992 and end at index 1993 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is T- 
+There is a dissimilar region start at index 1996 and end at index 1999 
+Which is AATA in The_Second_list_Consensus_Sequ and in the Main consensus  is TGCT 
+There is a dissimilar region at index 2002 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2025 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2031 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 2034 and end at index 2035 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 2071 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2075 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2080 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2082 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2091 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2095 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2137 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2149 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2158 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2195 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2200 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2203 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2212 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2218 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2220 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2236 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2263 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2267 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2269 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2275 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2282 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 2284 and end at index 2285 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region at index 2292 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2296 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2304 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 2307 and end at index 2308 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region start at index 2312 and end at index 2338 
+Which is --------------------------- in The_Second_list_Consensus_Sequ and in the Main consensus  is CCCTCTCAGGAACAGGAGCAGAAAAAC 
+There is a dissimilar region at index 2347 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2353 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2356 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2360 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2392 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2394 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2406 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 2423 and end at index 2424 
+Which is TA in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 2430 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2434 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2439 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2469 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2478 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2520 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2547 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2552 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2554 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2562 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2569 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2571 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2574 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2622 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2629 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2649 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2667 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2706 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2721 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2761 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2807 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2871 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2901 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2907 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2922 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2928 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2935 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2946 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2952 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 2955 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 2959 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 2988 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 2997 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3015 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3018 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3022 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3039 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3054 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3065 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3069 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3084 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3114 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3141 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3144 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3168 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3171 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3181 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3192 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3195 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3198 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3259 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3273 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3279 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3282 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3285 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3294 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3321 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3354 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3372 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3384 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3394 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3396 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3405 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3411 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3438 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3451 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3465 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3480 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 3491 and end at index 3492 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 3498 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3501 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 3505 and end at index 3506 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region at index 3510 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3517 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3528 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3535 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3541 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3546 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3549 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3552 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3568 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3576 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3585 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3600 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3612 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3633 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3660 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3693 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3695 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3698 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3708 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3720 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3731 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3733 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 3736 and end at index 3737 
+Which is TC in The_Second_list_Consensus_Sequ and in the Main consensus  is GG 
+There is a dissimilar region at index 3739 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3741 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3771 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3773 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3784 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3786 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 3790 and end at index 3791 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is CA 
+There is a dissimilar region at index 3796 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3798 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3804 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3846 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3859 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3870 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3885 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 3900 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3906 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3925 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3930 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3934 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 3948 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 3954 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 3975 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4002 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4005 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4008 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 4014 and end at index 4015 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AT 
+There is a dissimilar region at index 4029 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4035 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4053 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4056 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 4062 and end at index 4063 
+Which is TA in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region at index 4065 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4074 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4086 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4095 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4101 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4104 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4108 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4133 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4143 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4176 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4194 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4210 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4219 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 4233 and end at index 4234 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region at index 4240 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4245 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4251 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4260 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4322 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4332 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4336 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4344 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4353 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4362 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4365 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4374 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4380 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4386 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4391 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4422 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4432 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4434 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4452 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4455 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4473 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4482 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4536 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4555 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4561 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4563 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4608 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4629 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4635 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 4644 and end at index 4645 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region at index 4678 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4683 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4689 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 4696 and end at index 4697 
+Which is CC in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 4711 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4725 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 4741 and end at index 4743 
+Which is AAT in The_Second_list_Consensus_Sequ and in the Main consensus  is GGC 
+There is a dissimilar region at index 4749 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 4794 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4797 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4809 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4824 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4830 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 4854 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 4887 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 4992 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5025 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5061 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5064 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5088 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5097 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5105 and end at index 5106 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region at index 5109 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5115 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5218 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5243 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5245 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5258 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5263 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5268 and end at index 5269 
+Which is GT in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region at index 5288 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 5291 and end at index 5292 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 5294 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5303 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5332 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5335 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5337 and end at index 5339 
+Which is ATT in The_Second_list_Consensus_Sequ and in the Main consensus  is --- 
+There is a dissimilar region at index 5343 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5347 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5385 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5389 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5395 and end at index 5396 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is TC 
+There is a dissimilar region at index 5404 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5407 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5425 and end at index 5426 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region start at index 5428 and end at index 5431 
+Which is GGAA in The_Second_list_Consensus_Sequ and in the Main consensus  is AAGG 
+There is a dissimilar region at index 5434 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5447 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5457 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5461 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5480 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5482 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5494 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5501 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5512 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5536 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 5544 and end at index 5545 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region at index 5557 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5572 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5588 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5596 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5605 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5607 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5615 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5625 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5628 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5630 and end at index 5631 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AT 
+There is a dissimilar region start at index 5634 and end at index 5635 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region at index 5659 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5662 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5671 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5691 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5712 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5731 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5736 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5739 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5745 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 5748 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 5754 and end at index 5755 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 5772 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5790 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 5796 and end at index 5797 
+Which is AT in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 5820 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5832 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 5836 and end at index 5837 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region at index 5841 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5862 and end at index 5863 
+Which is TT in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 5865 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5881 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 5883 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 5901 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 5927 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 5929 and end at index 5937 
+Which is AGGGGTAAA in The_Second_list_Consensus_Sequ and in the Main consensus  is --------- 
+There is a dissimilar region at index 5939 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 5947 and end at index 5949 
+Which is GGC in The_Second_list_Consensus_Sequ and in the Main consensus  is ATA 
+There is a dissimilar region at index 5989 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6010 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6014 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6025 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6031 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 6048 and end at index 6049 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AT 
+There is a dissimilar region at index 6058 
+Which is - in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6068 and end at index 6069 
+Which is TC in The_Second_list_Consensus_Sequ and in the Main consensus  is CA 
+There is a dissimilar region start at index 6073 and end at index 6074 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is CG 
+There is a dissimilar region at index 6077 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6116 and end at index 6117 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 6123 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6134 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6138 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6141 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6145 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6153 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6159 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6177 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6179 and end at index 6186 
+Which is AATAATTA in The_Second_list_Consensus_Sequ and in the Main consensus  is T------- 
+There is a dissimilar region at index 6191 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6210 and end at index 6211 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region start at index 6215 and end at index 6217 
+Which is GCT in The_Second_list_Consensus_Sequ and in the Main consensus  is TTA 
+There is a dissimilar region at index 6228 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6241 and end at index 6244 
+Which is AGCC in The_Second_list_Consensus_Sequ and in the Main consensus  is GCTA 
+There is a dissimilar region start at index 6248 and end at index 6249 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region at index 6253 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6275 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6277 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6283 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6285 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 6288 and end at index 6289 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region at index 6291 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6293 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6297 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6301 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6304 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6306 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6317 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6323 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6352 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6364 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6373 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6377 and end at index 6378 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 6392 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6398 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 6402 and end at index 6404 
+Which is --- in The_Second_list_Consensus_Sequ and in the Main consensus  is TGG 
+There is a dissimilar region at index 6413 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6416 and end at index 6417 
+Which is TT in The_Second_list_Consensus_Sequ and in the Main consensus  is CA 
+There is a dissimilar region at index 6423 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6426 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 6432 and end at index 6434 
+Which is --- in The_Second_list_Consensus_Sequ and in the Main consensus  is TTG 
+There is a dissimilar region at index 6437 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6440 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6443 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6448 and end at index 6449 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region at index 6451 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6453 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6461 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6476 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6479 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6503 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6507 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6509 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6512 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6546 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6548 and end at index 6549 
+Which is TA in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 6554 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6556 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6564 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6590 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6615 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6617 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6620 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6629 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6638 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6665 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6668 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6671 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6689 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6693 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6701 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6713 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6725 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6734 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6743 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6752 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6755 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6759 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6762 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 6764 and end at index 6765 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 6767 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6769 and end at index 6770 
+Which is GT in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 6773 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6775 and end at index 6777 
+Which is GCT in The_Second_list_Consensus_Sequ and in the Main consensus  is ATA 
+There is a dissimilar region at index 6779 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6782 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6787 and end at index 6788 
+Which is AT in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 6790 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 6792 and end at index 6794 
+Which is GTC in The_Second_list_Consensus_Sequ and in the Main consensus  is ACT 
+There is a dissimilar region at index 6797 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6800 and end at index 6801 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region at index 6805 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6811 and end at index 6814 
+Which is ATAA in The_Second_list_Consensus_Sequ and in the Main consensus  is ---G 
+There is a dissimilar region at index 6820 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6828 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6830 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6833 and end at index 6836 
+Which is TGAT in The_Second_list_Consensus_Sequ and in the Main consensus  is ---- 
+There is a dissimilar region at index 6838 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 6841 and end at index 6842 
+Which is TC in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region start at index 6844 and end at index 6845 
+Which is GT in The_Second_list_Consensus_Sequ and in the Main consensus  is -- 
+There is a dissimilar region at index 6847 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6854 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6875 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6885 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 6889 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6925 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6933 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6940 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6945 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6948 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6951 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6961 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 6964 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6967 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6971 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 6973 and end at index 6978 
+Which is ACA--- in The_Second_list_Consensus_Sequ and in the Main consensus  is GTGGAT 
+There is a dissimilar region at index 6984 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 6986 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 6993 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7010 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7025 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7041 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7082 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7097 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7103 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7121 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7124 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7127 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7136 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7154 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7157 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7166 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7169 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7171 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7181 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7194 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7199 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7224 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7229 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7245 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7251 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7253 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7259 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7264 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7284 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 7286 and end at index 7287 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region start at index 7293 and end at index 7294 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region at index 7298 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7304 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7307 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7376 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7385 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7410 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7412 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7419 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7443 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 7449 and end at index 7450 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 7453 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7455 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7462 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7464 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7467 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 7469 and end at index 7470 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is TC 
+There is a dissimilar region at index 7478 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 7481 and end at index 7486 
+Which is CATAAC in The_Second_list_Consensus_Sequ and in the Main consensus  is ------ 
+There is a dissimilar region at index 7505 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 7520 and end at index 7522 
+Which is TTT in The_Second_list_Consensus_Sequ and in the Main consensus  is CCC 
+There is a dissimilar region at index 7538 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7541 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7571 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7574 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7578 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 7581 and end at index 7583 
+Which is GCA in The_Second_list_Consensus_Sequ and in the Main consensus  is AGC 
+There is a dissimilar region start at index 7602 and end at index 7604 
+Which is AAT in The_Second_list_Consensus_Sequ and in the Main consensus  is TGG 
+There is a dissimilar region start at index 7606 and end at index 7607 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 7610 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7613 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7616 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 7621 and end at index 7622 
+Which is GA in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region at index 7624 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 7628 and end at index 7632 
+Which is ----- in The_Second_list_Consensus_Sequ and in the Main consensus  is TAGTA 
+There is a dissimilar region at index 7637 
+Which is - in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 7644 and end at index 7645 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GG 
+There is a dissimilar region start at index 7647 and end at index 7648 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region start at index 7650 and end at index 7654 
+Which is GGGTC in The_Second_list_Consensus_Sequ and in the Main consensus  is AATGA 
+There is a dissimilar region start at index 7663 and end at index 7664 
+Which is AT in The_Second_list_Consensus_Sequ and in the Main consensus  is CA 
+There is a dissimilar region at index 7700 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7719 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 7742 and end at index 7744 
+Which is CCC in The_Second_list_Consensus_Sequ and in the Main consensus  is TGA 
+There is a dissimilar region start at index 7749 and end at index 7750 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is CT 
+There is a dissimilar region start at index 7756 and end at index 7757 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region start at index 7761 and end at index 7762 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is TC 
+There is a dissimilar region at index 7782 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7802 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7804 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 7806 and end at index 7807 
+Which is TG in The_Second_list_Consensus_Sequ and in the Main consensus  is AA 
+There is a dissimilar region start at index 7810 and end at index 7818 
+Which is ATGAGACCG in The_Second_list_Consensus_Sequ and in the Main consensus  is -------TA 
+There is a dissimilar region start at index 7827 and end at index 7828 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is -- 
+There is a dissimilar region start at index 7833 and end at index 7834 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 7855 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 7865 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 7871 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7895 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 7898 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7912 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 7928 and end at index 7929 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is TC 
+There is a dissimilar region at index 7942 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 7964 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 7980 and end at index 7981 
+Which is AT in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region start at index 7983 and end at index 7985 
+Which is --- in The_Second_list_Consensus_Sequ and in the Main consensus  is ATA 
+There is a dissimilar region at index 8000 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8015 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8042 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8087 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8104 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8129 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8139 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8145 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8251 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 8301 and end at index 8304 
+Which is TATA in The_Second_list_Consensus_Sequ and in the Main consensus  is CTAG 
+There is a dissimilar region at index 8312 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8334 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8342 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 8352 and end at index 8353 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region start at index 8365 and end at index 8366 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GT 
+There is a dissimilar region at index 8368 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 8375 and end at index 8377 
+Which is TGA in The_Second_list_Consensus_Sequ and in the Main consensus  is CAG 
+There is a dissimilar region at index 8379 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8382 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8396 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8398 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8405 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8424 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8431 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8441 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8451 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8458 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8466 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8477 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8481 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8483 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8501 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8522 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8556 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8559 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 8588 and end at index 8589 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is TC 
+There is a dissimilar region at index 8594 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8597 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 8606 and end at index 8608 
+Which is TAC in The_Second_list_Consensus_Sequ and in the Main consensus  is CCT 
+There is a dissimilar region at index 8611 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 8613 and end at index 8614 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 8617 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8623 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8638 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8645 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8668 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8674 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8682 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8684 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8690 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8695 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8704 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 8712 and end at index 8713 
+Which is GC in The_Second_list_Consensus_Sequ and in the Main consensus  is AT 
+There is a dissimilar region at index 8723 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 8726 and end at index 8727 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 8731 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8756 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 8768 and end at index 8769 
+Which is CA in The_Second_list_Consensus_Sequ and in the Main consensus  is AC 
+There is a dissimilar region at index 8774 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8781 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8788 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8806 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8822 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 8842 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8844 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8852 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8861 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8864 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 8868 and end at index 8870 
+Which is GCC in The_Second_list_Consensus_Sequ and in the Main consensus  is CAG 
+There is a dissimilar region at index 8873 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 8877 and end at index 8878 
+Which is GG in The_Second_list_Consensus_Sequ and in the Main consensus  is AT 
+There is a dissimilar region start at index 8905 and end at index 8906 
+Which is AT in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region at index 8910 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8913 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8918 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8920 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 8937 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 8939 and end at index 8940 
+Which is CT in The_Second_list_Consensus_Sequ and in the Main consensus  is GG 
+There is a dissimilar region start at index 8951 and end at index 8952 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 8961 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8965 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8974 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 8991 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 8999 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9032 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9039 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9045 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9066 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9072 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 9082 and end at index 9084 
+Which is CAG in The_Second_list_Consensus_Sequ and in the Main consensus  is GCT 
+There is a dissimilar region at index 9103 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 9109 and end at index 9110 
+Which is CC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 9112 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 9114 and end at index 9115 
+Which is TC in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region start at index 9118 and end at index 9123 
+Which is ACCCCT in The_Second_list_Consensus_Sequ and in the Main consensus  is GAAGAA 
+There is a dissimilar region start at index 9127 and end at index 9130 
+Which is ---- in The_Second_list_Consensus_Sequ and in the Main consensus  is AGAA 
+There is a dissimilar region at index 9133 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region start at index 9135 and end at index 9139 
+Which is ----- in The_Second_list_Consensus_Sequ and in the Main consensus  is TAATA 
+There is a dissimilar region at index 9148 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9153 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9156 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9160 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 9170 and end at index 9171 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is GG 
+There is a dissimilar region start at index 9174 and end at index 9175 
+Which is TT in The_Second_list_Consensus_Sequ and in the Main consensus  is CC 
+There is a dissimilar region at index 9177 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9180 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9183 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9189 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9195 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9201 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 9214 and end at index 9216 
+Which is GCC in The_Second_list_Consensus_Sequ and in the Main consensus  is CAG 
+There is a dissimilar region at index 9223 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9228 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9255 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9258 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9264 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9267 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9270 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9282 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9285 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9294 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9297 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9309 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9312 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9322 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9324 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9330 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9363 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9367 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 9374 and end at index 9375 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GG 
+There is a dissimilar region at index 9393 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9405 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9414 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9426 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9444 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9474 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9489 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9499 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9513 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 9520 and end at index 9522 
+Which is GCA in The_Second_list_Consensus_Sequ and in the Main consensus  is AAG 
+There is a dissimilar region at index 9534 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9536 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9539 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9556 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9558 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9561 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9570 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9573 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region start at index 9595 and end at index 9597 
+Which is GAA in The_Second_list_Consensus_Sequ and in the Main consensus  is CCG 
+There is a dissimilar region at index 9600 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9610 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9612 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9615 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9620 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is G 
+There is a dissimilar region at index 9625 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9630 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 9632 and end at index 9633 
+Which is AC in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 9640 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region start at index 9642 and end at index 9643 
+Which is AA in The_Second_list_Consensus_Sequ and in the Main consensus  is TG 
+There is a dissimilar region start at index 9650 and end at index 9651 
+Which is TA in The_Second_list_Consensus_Sequ and in the Main consensus  is AG 
+There is a dissimilar region at index 9655 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9658 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9661 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9694 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 9696 and end at index 9703 
+Which is -----CTG in The_Second_list_Consensus_Sequ and in the Main consensus  is AGCTTTCT 
+There is a dissimilar region at index 9707 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is A 
+There is a dissimilar region at index 9721 
+Which is A in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 9724 and end at index 9725 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GC 
+There is a dissimilar region start at index 9727 and end at index 9731 
+Which is TGCTG in The_Second_list_Consensus_Sequ and in the Main consensus  is CTTCT 
+There is a dissimilar region at index 9739 
+Which is G in The_Second_list_Consensus_Sequ and in the Main consensus  is - 
+There is a dissimilar region at index 9769 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region start at index 9772 and end at index 9776 
+Which is GGTTT in The_Second_list_Consensus_Sequ and in the Main consensus  is AACCG 
+There is a dissimilar region start at index 9783 and end at index 9784 
+Which is AG in The_Second_list_Consensus_Sequ and in the Main consensus  is GA 
+There is a dissimilar region at index 9786 
+Which is T in The_Second_list_Consensus_Sequ and in the Main consensus  is C 
+There is a dissimilar region at index 9830 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9832 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
+There is a dissimilar region at index 9854 
+Which is C in The_Second_list_Consensus_Sequ and in the Main consensus  is T 
