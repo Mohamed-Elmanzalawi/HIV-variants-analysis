@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Human Immunodeficiency Virus type-1 (HIV-1), the causative agent of Acquired Immunodeficiency Syndrome (AIDS), has led to over 34 million deaths and poses a continuous threat, potentially claiming over two million lives annually without effective therapeutic intervention [1]. HIV, once contracted, becomes a lifelong condition. Untreated, it results in progressive CD4+ T cell loss, immunological abnormalities, and heightened risks of infectious and oncological complications. However, with proper medical care, HIV can be effectively controlled, enabling individuals to lead long, healthy lives while safeguarding their partners [2].
+Human Immunodeficiency Virus type-1 (HIV-1), the causative agent of Acquired Immunodeficiency Syndrome (AIDS), has led to over 34 million deaths and poses a continuous threat, potentially claiming over two million lives annually without effective therapeutic intervention [^1]. HIV, once contracted, becomes a lifelong condition. Untreated, it results in progressive CD4+ T cell loss, immunological abnormalities, and heightened risks of infectious and oncological complications. However, with proper medical care, HIV can be effectively controlled, enabling individuals to lead long, healthy lives while safeguarding their partners [^2].
 
 Our study focuses on the genetic makeup of HIV-1, specifically exploring variations between continents. The objective is to compare HIV-1 sequences from Africa and Europe, employing a full automated Python script to highlight potential effects stemming from regional differences.
 
@@ -10,7 +10,7 @@ Our study focuses on the genetic makeup of HIV-1, specifically exploring variati
 
 ### Computational Environment
 
-All computational steps were conducted using Python 3 [4].
+All computational steps were conducted using Python 3 [^4].
 
 ### Data Collection
 
@@ -51,10 +51,8 @@ This study, conducted on the same HIV-1 virus, emphasizes the environmental impa
 
 ## References
 
-[1] [Ghanam, R. H., Samal, A. B., Fernandez, T. F., & Saad, J. S. (2012). Role of the HIV-1 Matrix Protein in Gag Intracellular Trafficking and Targeting to the Plasma Membrane for Virus Assembly. *Frontiers in Microbiology*, 3, 55. doi:10.3389/fmicb.2012.00055](https://doi.org/10.3389/fmicb.2012.00055)
+[^1]: [Ghanam, R. H., Samal, A. B., Fernandez, T. F., & Saad, J. S. (2012). Role of the HIV-1 Matrix Protein in Gag Intracellular Trafficking and Targeting to the Plasma Membrane for Virus Assembly. *Frontiers in Microbiology*, 3, 55. doi:10.3389/fmicb.2012.00055](https://doi.org/10.3389/fmicb.2012.00055)
 
-[2] [Deeks, S. G., Overbaugh, J., Phillips, A., & Buchbinder, S. (2015). HIV infection. *Nature Reviews Disease Primers*, 1, 15035. doi:10.1038/nrdp.2015.35](https://doi.org/10.1038/nrdp.2015.35)
+[^2]: [Deeks, S. G., Overbaugh, J., Phillips, A., & Buchbinder, S. (2015). HIV infection. *Nature Reviews Disease Primers*, 1, 15035. doi:10.1038/nrdp.2015.35](https://doi.org/10.1038/nrdp.2015.35)
 
-[3] [Moore, M. D., & Hu, W. S. (2009). HIV-1 RNA dimerization: It takes two to tango. *AIDS Reviews*, 11(2), 91–102.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056336/)
-
-[4] [Van Rossum, G., & Drake, F. L. (2009). Python 3 Reference Manual.](https://docs.python.org/3/reference/index.html)
+[^4]: [Van Rossum, G., & Drake, F. L. (2009). Python 3 Reference Manual.](https://docs.python.org/3/reference/index.html)
