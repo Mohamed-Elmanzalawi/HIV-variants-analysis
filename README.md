@@ -41,6 +41,8 @@ All performed alignments were saved in separate files.
 
 Indexes of dissimilar regions, along with their original and dissimilar sequences, were saved in a Dissimilar_positions file, available for download after code execution. The results indicate dissimilar regions across the whole genome due to different continents of origin.
 
+![](samples/Dissimilar_positions_file_snapshot.jpeg)
+
 ### Functional Products/Interpretations
 
 In this study, we compared four predicted ORFs from the consensus sequences of Africa and Europe. The NCBI ORF finder results reveal that ORF1 in the first consensus sequence corresponds to ORF15 in the second sequence.
