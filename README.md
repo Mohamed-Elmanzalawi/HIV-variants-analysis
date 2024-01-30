@@ -1,4 +1,4 @@
-# Comparative Computational Analysis of HIV-1 Sequence Variants in Africa and Europe
+# Comparative Computational Analysis of HIV-1 Sequence Variants in Africa and Europe 🌍
 
 ## Introduction
 
@@ -49,10 +49,22 @@ Analyzing the protein sequences via the Pfam website, we identified that the sec
 
 This study, conducted on the same HIV-1 virus, emphasizes the environmental impact on virus development. By changing continents, the virus's whole genome acquires different nucleotides, potentially leading to varied functional products. The criticality of these functional products to the virus influences its behavior and transmission dynamics. Our computational approach provides valuable insights into these variations, contributing to the understanding of HIV-1 dynamics in different geographic regions.
 
-## References
 
 [^1]: [Ghanam, R. H., Samal, A. B., Fernandez, T. F., & Saad, J. S. (2012). Role of the HIV-1 Matrix Protein in Gag Intracellular Trafficking and Targeting to the Plasma Membrane for Virus Assembly. *Frontiers in Microbiology*, 3, 55. doi:10.3389/fmicb.2012.00055](https://doi.org/10.3389/fmicb.2012.00055)
 
 [^2]: [Deeks, S. G., Overbaugh, J., Phillips, A., & Buchbinder, S. (2015). HIV infection. *Nature Reviews Disease Primers*, 1, 15035. doi:10.1038/nrdp.2015.35](https://doi.org/10.1038/nrdp.2015.35)
 
 [^4]: [Van Rossum, G., & Drake, F. L. (2009). Python 3 Reference Manual.](https://docs.python.org/3/reference/index.html)
+
+
+## Team Members 👥
+
+A big thank you to my team members for your hard work and collaboration have been key to our project's success. Here's to a fantastic team!
+
+- Ahmed Nabil Elghamry [Linkedin](https://www.linkedin.com/in/ahmed-elghamry-7b22829a/)
+- Sherouk Mahmoud [Linkedin](https://www.linkedin.com/in/sherouk-mahmoud-567585143/)
+
+## References
+
+
+
