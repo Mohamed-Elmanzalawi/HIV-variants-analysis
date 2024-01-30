@@ -4,7 +4,10 @@
 
 Human Immunodeficiency Virus type-1 (HIV-1), the causative agent of Acquired Immunodeficiency Syndrome (AIDS), has led to over 34 million deaths and poses a continuous threat, potentially claiming over two million lives annually without effective therapeutic intervention [^1]. HIV, once contracted, becomes a lifelong condition. Untreated, it results in progressive CD4+ T cell loss, immunological abnormalities, and heightened risks of infectious and oncological complications. However, with proper medical care, HIV can be effectively controlled, enabling individuals to lead long, healthy lives while safeguarding their partners [^2].
 
-Our study focuses on the genetic makeup of HIV-1, specifically exploring variations between continents. The objective is to compare HIV-1 sequences from Africa and Europe, employing a full automated Python script to highlight potential effects stemming from regional differences.
+![](samples/HIV_estimation_2018.png)
+
+⭐ Our study focuses on the genetic makeup of HIV-1, specifically exploring variations between continents. 
+The objective is to compare HIV-1 sequences from Africa and Europe, employing a fully automated Python script to highlight potential effects stemming from regional differences.
 
 ## Material and Methods
 
@@ -18,7 +21,7 @@ We obtained twenty whole genome sequences for HIV-1, ten from Africa and ten fro
 
 ### Sequence Alignment
 
-Multiple alignments were performed using Clustalw Command Line. Sequences from Africa and Europe were aligned separately to create consensus sequences. The dissimilar regions were identified by aligning the consensus sequences of Africa and Europe.
+Multiple alignments were performed using the Clustalw Command Line. Sequences from Africa and Europe were aligned separately to create consensus sequences. The dissimilar regions were identified by aligning the consensus sequences of Africa and Europe.
 
 ### Dissimilar Regions Extraction
 
